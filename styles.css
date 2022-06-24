@@ -1,0 +1,29 @@
+h1{
+    color: coral;
+    text-align: left;
+    
+
+}
+
+h3,b{
+    font-size: 20px;
+    color: rgb(30, 226, 46);
+}
+.p{
+    margin: 40px;
+    
+}
+p{
+    letter-spacing: .03em;
+    font-size: 15px;
+    text-justify: auto;
+}
+.panel-group{
+    margin: 60px;
+}
+.footer{
+    padding:20px 0;
+    color:#f0f9ff;
+    background-color:#282d32;
+    text-align: center;
+}
